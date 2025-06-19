@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as he:
 
 setup(
     name="kolhalashon",
-    version="1.0.3",
+    version="1.0.4",
     author="zvi shteinman",
     description="Python wrapper for Kol Halashon API",
     long_description=long_description,

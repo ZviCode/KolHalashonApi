@@ -37,3 +37,10 @@ class ShiurDetails:
     video_available: bool
     hd_video_available: bool
     categories: List[str]
+
+@dataclass
+class Category:
+    rabanim: List[Dict]
+    books: List[Dict]
+    shiurim: List[Dict]
+    others: List[Dict]
