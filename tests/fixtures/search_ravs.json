@@ -1,0 +1,53 @@
+[
+ {
+  "UserId": 7,
+  "UserType": 1,
+  "RavSearchNameHebrew": "הרב אשר וייס",
+  "SortRavSearchNameHebrew": "וייס, הרב אשר",
+  "RavSearchNameEnglish": "Harav Asher Weiss",
+  "SortRavSearchNameEnglish": "Weiss, Harav Asher",
+  "ShiurimCount": 2645,
+  "AlternativeWritingWays": "הרב אשר ויס דרכי ההוראה בית דין, אשר וייס, אשר וויס, וויס",
+  "LastRecordDate": "2026-10-22T21:06:28.543",
+  "LanguageId": 1,
+  "RavImageFileName": "0007.jpg",
+  "UserIsFollowing": false,
+  "DownloadCount": 15928,
+  "ShiurimTotalCount": 3412,
+  "HideDonations": false
+ },
+ {
+  "UserId": 2093,
+  "UserType": 2,
+  "RavSearchNameHebrew": "הרב אהרון וייס",
+  "SortRavSearchNameHebrew": "וייס, הרב אהרון",
+  "RavSearchNameEnglish": "Harav Aharon Weiss",
+  "SortRavSearchNameEnglish": "Weiss, Harav Aharon",
+  "ShiurimCount": 4208,
+  "AlternativeWritingWays": null,
+  "LastRecordDate": "2026-10-25T19:38:33.867",
+  "LanguageId": 1,
+  "RavImageFileName": null,
+  "UserIsFollowing": false,
+  "DownloadCount": 3392,
+  "ShiurimTotalCount": null,
+  "HideDonations": null
+ },
+ {
+  "UserId": 1307,
+  "UserType": 1,
+  "RavSearchNameHebrew": "הרב אהרן משה וייס",
+  "SortRavSearchNameHebrew": "וייס, הרב אהרן משה",
+  "RavSearchNameEnglish": "Harav Aharon Moshe Weiss",
+  "SortRavSearchNameEnglish": "Weiss, Harav Aharon Moshe",
+  "ShiurimCount": 3429,
+  "AlternativeWritingWays": null,
+  "LastRecordDate": "2026-10-25T20:53:04.42",
+  "LanguageId": 1,
+  "RavImageFileName": "1307.jpg",
+  "UserIsFollowing": false,
+  "DownloadCount": 2902,
+  "ShiurimTotalCount": null,
+  "HideDonations": null
+ }
+]
