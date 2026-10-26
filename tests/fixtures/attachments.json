@@ -1,0 +1,22 @@
+[
+ {
+  "Id": 2496803,
+  "FileId": 42863638,
+  "AttachmentType": 1,
+  "AttachmentDesc": "Lech_Lecha_he_87",
+  "AttachmentFileName": "42863638_02496803",
+  "AttachmentOrder": 1,
+  "AttachmentDisableEmail": true,
+  "Rowguid": "0316f0c8-c9ce-f111-a94f-a83ca50124bf"
+ },
+ {
+  "Id": 2496804,
+  "FileId": 42863638,
+  "AttachmentType": 1,
+  "AttachmentDesc": "Lech_Lecha_he_87-2",
+  "AttachmentFileName": "42863638_02496804",
+  "AttachmentOrder": 2,
+  "AttachmentDisableEmail": true,
+  "Rowguid": "0416f0c8-c9ce-f111-a94f-a83ca50124bf"
+ }
+]

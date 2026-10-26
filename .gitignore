@@ -1,3 +1,19 @@
-__pycache__
-*.pkl
 __pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.playwright-mcp/
+
+# credentials and saved login tokens
+.env
+*.pkl
+kolhalashon_session.json
+
+# downloads
+downloads/
+*.part

@@ -1,0 +1,74 @@
+[
+ {
+  "SearchItemType": 2,
+  "SearchItemId": 7,
+  "SearchItemBigId": null,
+  "SearchItemStrId": "0007.jpg",
+  "SearchItemTextHebrew": "וייס, הרב אשר",
+  "SearchItemTextEnglish": "Weiss, Harav Asher"
+ },
+ {
+  "SearchItemType": 9,
+  "SearchItemId": null,
+  "SearchItemBigId": null,
+  "SearchItemStrId": "09664823",
+  "SearchItemTextHebrew": "פסקי הגאון רבי אשר וייס שליטא",
+  "SearchItemTextEnglish": null
+ },
+ {
+  "SearchItemType": 9,
+  "SearchItemId": null,
+  "SearchItemBigId": null,
+  "SearchItemStrId": "05834016",
+  "SearchItemTextHebrew": "הרב אשר וויס",
+  "SearchItemTextEnglish": null
+ },
+ {
+  "SearchItemType": 9,
+  "SearchItemId": null,
+  "SearchItemBigId": null,
+  "SearchItemStrId": "03152168",
+  "SearchItemTextHebrew": "הרב אשר וייס - ביאורי תפילה",
+  "SearchItemTextEnglish": "Harav Asher Weiss - Biurei Tefillah"
+ },
+ {
+  "SearchItemType": 9,
+  "SearchItemId": null,
+  "SearchItemBigId": null,
+  "SearchItemStrId": "03840590",
+  "SearchItemTextHebrew": "הרה''ג ר' אשר וייס שליט''א",
+  "SearchItemTextEnglish": null
+ },
+ {
+  "SearchItemType": 10,
+  "SearchItemId": 2,
+  "SearchItemBigId": 42056944,
+  "SearchItemStrId": null,
+  "SearchItemTextHebrew": "הרב אשר וייס - בעניין עוסק במצוה פטור מן המצוה חול המועד סוכות תשפ\"ו",
+  "SearchItemTextEnglish": ""
+ },
+ {
+  "SearchItemType": 10,
+  "SearchItemId": 2,
+  "SearchItemBigId": 42767500,
+  "SearchItemStrId": null,
+  "SearchItemTextHebrew": "הרב אשר וייס - בעניין כמה להוציא ולטרוח במצוות א' דחול המועד סוכות תשפ\"ז",
+  "SearchItemTextEnglish": null
+ },
+ {
+  "SearchItemType": 10,
+  "SearchItemId": 2,
+  "SearchItemBigId": 39013700,
+  "SearchItemStrId": null,
+  "SearchItemTextHebrew": "הרב אשר וייס שליט\"א - חול המועד סוכות תשפ\"ה",
+  "SearchItemTextEnglish": ""
+ },
+ {
+  "SearchItemType": 10,
+  "SearchItemId": 2,
+  "SearchItemBigId": 42839395,
+  "SearchItemStrId": null,
+  "SearchItemTextHebrew": "הרב אשר וייס - ו' חול המועד סוכות תשפ\"ז",
+  "SearchItemTextEnglish": null
+ }
+]
