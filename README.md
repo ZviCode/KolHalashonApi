@@ -4,6 +4,8 @@ Typed Python wrapper for the [Kol Halashon](https://www.kolhalashon.com/he/regul
 
 ספריית פייתון לעבודה מול האתר של קול הלשון: חיפוש שיעורים ורבנים, רשימות שיעורים של רב או של תיקייה, פרטי שיעור, קישורי האזנה, הורדה (עם חשבון), וכתובות RSS לכל תיקייה, כולל טעינה וניתוח של הפיד.
 
+Full documentation: [docs/](docs/README.md) ([API reference](docs/api-reference.md), [RSS](docs/rss.md), [downloads](docs/downloads.md), [CLI](docs/cli.md), [מדריך בעברית](docs/guide-he.md)).
+
 ## Installation
 
 ```bash

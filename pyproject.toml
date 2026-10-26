@@ -42,7 +42,7 @@ build-backend = "hatchling.build"
 packages = ["kolhalashon"]
 
 [tool.hatch.build.targets.sdist]
-include = ["kolhalashon", "tests", "README.md", "examples.py"]
+include = ["kolhalashon", "tests", "docs", "README.md", "examples.py"]
 
 [tool.ruff]
 line-length = 100
